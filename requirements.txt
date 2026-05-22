@@ -1,9 +1,0 @@
-transformers
-datasets
-torch
-pandas
-numpy
-scikit-learn
-seqeval
-rank_bm25
-jupyter
